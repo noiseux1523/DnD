@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DnD</string>
+    <string name="title">DnD_Title</string>
+    <string name="characters_button">Characters</string>
+    <string name="sources_button">Sources</string>
+    <string name="party_button">Party</string>
+    <string name="maps_button">Maps</string>
+    <string name="monsters_button">Monsters</string>
+</resources>
